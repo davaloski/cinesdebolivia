@@ -24,7 +24,7 @@
     "FESTIVAL": "ANDARES - Festival de cine contemporaneo / Acciones cinematográficas",
     "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczN2y7RmWTT4suS5SeRNkgJTjhhirrNpuiF22Msgc3NhCTr7XysvlpEmUGx-jRL-k6nYN_SiQFMQHDB8e11IQRLAA8AYBUGussouwiTIQpDvGKAZrF9DqwC1MaCg_x4lrEJuv1edQ2htSXCFz44YeS-L=w150-h150-s-no-gm?authuser=6",
     "SITIO WEB": "https://www.andarescine.com/",
-    "DESDE": "",
+    "DESDE": 2023,
     "PAÍS": "PERÚ"
   },
   {
@@ -38,7 +38,7 @@
     "FESTIVAL": "ARICADOC - Festival Internacional de cine documental de Arica",
     "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczMG_TYtV7cUkuyQ-NXjhckrzD7iYGsntsimLiHR-2SQJa6zmUoNkKbLvB3JAgjm5XClFEz1eIhWR-geGoZ4OsBe7g4DlQN1x-yfg_XC0AxR0fGUSoois0mcGNYfsg73-RGj9uyF7vFaOBnZ-wt3VDeN=w150-h150-s-no-gm?authuser=6",
     "SITIO WEB": "https://www.aricadoc.com/",
-    "DESDE": "",
+    "DESDE": 2017,
     "PAÍS": "CHILE"
   },
   {
@@ -52,14 +52,14 @@
     "FESTIVAL": "BAFICI - Buenos Aires Festival Internacional de Cine Independiente",
     "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczMDOuS9oLYpNr9LlLIgFC3GCnWjsFq3rhjbBcEDf7JgwDD2R4jYHESnbhjLxUm5MIfTplJO8wEneJcx1BSjCorCxg4_s7LCUmWfo-2ky7YaH2ZevpOv9MobqCAp27s4ENFktVv4rKMiaa088uPtqgSw=w150-h150-s-no-gm?authuser=6",
     "SITIO WEB": "https://bafici.org/",
-    "DESDE": "",
+    "DESDE": 1999,
     "PAÍS": "ARGENTINA"
   },
   {
     "FESTIVAL": "BAJO NUESTRA PIEL - Festival Internacional de cine sobre derechos humanos",
     "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczM7B2TuxbHJhdolhHfqK0S1g4ofLYg_u63SnqO1sBo1re2MkGL4LXm7YZGDFYFYpuvm6tCPKxFws9DZW68tGOoClSYKYrhaHRVTjeJ-dUHOz2iLfgojzBq2DY4ITQxysaMDGYl1txD1u91JwPZRqTl1=w150-h150-s-no-gm?authuser=6",
     "SITIO WEB": "https://www.bajonuestrapiel.org/",
-    "DESDE": "",
+    "DESDE": 2016,
     "PAÍS": "BOLIVIA"
   },
   {
@@ -101,7 +101,7 @@
     "FESTIVAL": "BOLIVIA LAB",
     "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczPQeF8w8tm2L36sX7RSHgRrmW3FuDeZ2eNIjnBKWsKwmEiZITMwbHZlciurK8U_81TpmMSSqTz8hQ3-NPwdx8k-eJMJLVfHpLK-UZrfqbLB0qXx2BLIY3X7Zt8viKR-LRkCI_6KLTmWi6A03aYbF7W-=w150-h150-s-no-gm?authuser=6",
     "SITIO WEB": "https://www.bolivialab.com.bo/",
-    "DESDE": "",
+    "DESDE": 2009,
     "PAÍS": "BOLIVIA"
   },
   {
@@ -115,7 +115,7 @@
     "FESTIVAL": "CCA - Centro de Cinematografia de Los Andes",
     "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczNVG0nb8i9Uz1ystvV_wqeolAUasZH5cp1Xx_dCd_Sg9D1CVk0STT_H6o5VqGt_IJXbB56kRqKGGajFw0cBLUO6cda9BbyvnU0CqPLSS6v12iSntswWffC5SUtKBy30zwPaQ5ZzIVZtbAoLl2UznSkG=w150-h150-s-no-gm?authuser=6",
     "SITIO WEB": "https://www.facebook.com/profile.php?id=100094784380185",
-    "DESDE": "",
+    "DESDE": 2023,
     "PAÍS": "BOLIVIA"
   },
   {
@@ -171,7 +171,7 @@
     "FESTIVAL": "CINEMATECA BOLIVIANA",
     "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczN-cPAfEpWBGWr7GPLdNMY2cDVz7C0UAwp_EKQk3mAs6JCfnfKZHlEkQ1Qm5qP1kq7RmwEc6kDOfM_XFzWZ76xRdGivwnG263rYU6i80rEAdJU-WVK4dVp3NeobBJjQS62qga2BfAWgAEeAxufwmnXg=w150-h150-s-no-gm?authuser=6",
     "SITIO WEB": "https://www.cinematecaboliviana.net/",
-    "DESDE": "",
+    "DESDE": 1976,
     "PAÍS": "BOLIVIA"
   },
   {
@@ -185,7 +185,7 @@
     "FESTIVAL": "COCINE - Plataforma Audiovisual Colaborativa",
     "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczO79gYVHJtQiWB7s-yYQHrgu8Tz1m_dbi9sINrKRoRvGlztE7S0XjeEW-HOMNUzEgWB0lt_0wPKghIjRJa2a5qc42x_FZLHpndu-GxtJFrORWROmd6rHM9oCsG1sMV76o5KQgXHXDYnXd7tjO5Mgjbl=w150-h150-s-no-gm?authuser=66",
     "SITIO WEB": "https://www.facebook.com/cocine.audiovisuales/",
-    "DESDE": "",
+    "DESDE": 2018,
     "PAÍS": "BOLIVIA"
   },
   {
@@ -199,14 +199,14 @@
     "FESTIVAL": "CULTURA CAÓTICA - Festival Internacional de cine",
     "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczNvnHAE283BZ6vrTxhmqmsazY8H_cmNVIz6ifiKtW5Hwa6ao2KmhQ2Oab9dH85NNeKq4vx_L5nMcKwtMhkWOBOwYA-qsdsz596PXATuJVxsm4woTLczmxewXIpoaQF9a8YuA7nqQohSyXyYuVmeYNHL=w150-h150-s-no-gm?authuser=6",
     "SITIO WEB": "https://www.facebook.com/cultura.caotica.2025",
-    "DESDE": "",
+    "DESDE": 2016,
     "PAÍS": "BOLIVIA"
   },
   {
     "FESTIVAL": "DÍA DEL VIDEO ARTE BOLIVIANO",
     "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczNkNWVjsKhxuSCxL5NZWn1iiBq9HxTTEQ8Gn1DjYsoaPBEz6Snq1VKALe3664thyBnQRvvldxmqAUmMMNTPFZDIRmNpkNYbAPFakXSkmKpP5LYoYwktQ8mknvd3SozSr1PBka8u470JOQepp1yCdoi6=w150-h150-s-no-gm?authuser=6",
     "SITIO WEB": "",
-    "DESDE": "",
+    "DESDE": 2024,
     "PAÍS": "BOLIVIA"
   },
   {
@@ -262,7 +262,7 @@
     "FESTIVAL": "FENAVID - Festival Internacional de Cine y Video de Santa Cruz",
     "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczPgAbhIEkumkY9AnuF_B1Odlaj4VpUQ1flAHhxLdDeA00qcmu7hlQN5gbeAv-fGDmjmvnyhPPSUj3GFg4cvuFMlgpUu7T53YfGzY9qgvZeCgp2MnOU-E8kXXN3lSrYRJnd3bmFgeu3eCw8a_HHfIY3u=w150-h150-s-no-gm?authuser=6",
     "SITIO WEB": "https://www.fenavid.com/",
-    "DESDE": "",
+    "DESDE": 2001,
     "PAÍS": "BOLIVIA"
   },
   {
@@ -290,7 +290,7 @@
     "FESTIVAL": "FICUMSA - Festival internacional de cine de la UMSA",
     "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczOrnMAuSg_MHuhnaI2T5uBffaRFR_EpvDD0FN9DOedy4UzoB5XL4EgAdBqPEBvOp5zAUNof-eezf4yelra-uXH5qBcd6_ZUL6Jj7wdS65nBYcvR7Db1WmbQI8DBpfy7yq9KYlroBCfbmogJm4-M7_T0=w150-h150-s-no-gm?authuser=6",
     "SITIO WEB": "https://sites.google.com/view/ficumsa/inicio",
-    "DESDE": "",
+    "DESDE": 2020,
     "PAÍS": "BOLIVIA"
   },
   {
@@ -325,7 +325,7 @@
     "FESTIVAL": "FIDOCS - Festival Internacional de Documentales de Santiago",
     "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczOZicwuXFt54tzRZEJyzxK05ohKepskoVOVhrR9Ut1mx9TWSRBuciN5tC-4oZlUJuqbzHE9VI7uy-1Cl34iDV8-XWjbwy9K-ElJ3yBL6NBpZXZ5zT2PP8CkVW_vBHxnOIyi6iz3KsSXc-Ywlx-TWWKW=w150-h150-s-no-gm?authuser=6",
     "SITIO WEB": "https://fidocs.cl/",
-    "DESDE": "",
+    "DESDE": 1997,
     "PAÍS": "CHILE"
   },
   {
@@ -360,8 +360,15 @@
     "FESTIVAL": "HANAN - Festival de cine de Puno",
     "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczMkrs0GqA5HsDsIIPee9NUZhohP1Lt3mjBWsc74mh93ybLzjciMgocCGJFX8rClepgm2LxonPCRMNcFEg9zgEfP1Lz4ieUFyuCp92pPQAkyyRLhQCl_XuWQTnUu1Txg_HoVG4569IIrsb3g2gd67oPF=w150-h150-s-no-gm?authuser=6",
     "SITIO WEB": "https://www.facebook.com/hanancinefest/",
-    "DESDE": "",
+    "DESDE": 2021,
     "PAÍS": "PERÚ"
+  },
+  {
+    "FESTIVAL": "ICREA - Casa Cultural",
+    "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczMI5yj4LmAJ0uk4AzuKw2S-Gk9o4D4YVP5oTJkrDdN8YJ0Y2cTQc3xbdKdYhF3x6homPIB6tXPE9AhjZhvslVCNfWjBq5InENY6wrFPkOCnP_Qqf0H-gbquxDBv4OmDUAZU7_NoFfoydHULeOHLuCt3=w150-h150-s-no-gm?authuser=1",
+    "SITIO WEB": "https://www.facebook.com/ICREAcasacultural",
+    "DESDE": 2022,
+    "PAÍS": "BOLIVIA"
   },
   {
     "FESTIVAL": "IDFA - Festival Internacional de cine documental de Ámsterdam",
@@ -394,8 +401,8 @@
   {
     "FESTIVAL": "JISK'AMETRAJES - Convocatoria anual del Movimiento del Nuevo Cine y Video Boliviano - El Alto",
     "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczNfjMX7kO3RH9iTUZNf3F9DRGkFw3mZ2Lj8Xguyhmz4AYrloPkvBi2f-DbBRlXEGT51KKAXyao-ObrtEVOXy9HqctqFqAAafp_PjoTppVx5ComTxJvTwXdeD_riB4BLJhgXiLZE-behuFtXSDOxJFoJ=w150-h150-s-no-gm?authuser=6",
-    "SITIO WEB": "",
-    "DESDE": "",
+    "SITIO WEB": "https://www.facebook.com/MovimientoDeCineDeElAlto/",
+    "DESDE": 2021,
     "PAÍS": "BOLIVIA"
   },
   {
@@ -408,15 +415,15 @@
   {
     "FESTIVAL": "LA RUTA DEL ARTE",
     "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczM6ERUp2axtEa-L19gYIcYBUWOIX_nE7Kb4o_GP0mRZhD-P4Vn10csIq0rgDsR4ZTDfsg5Hq3bGjZx7OgS8rjR1ct88DlbJnj76epoTosgKxVLSW83OFrKSE4OELF3IulqUHWI_-4GVF_X_t6syUvjE=w150-h150-s-no-gm?authuser=6",
-    "SITIO WEB": "",
-    "DESDE": "",
+    "SITIO WEB": "https://www.facebook.com/larutadelarte.bo/",
+    "DESDE": 2024,
     "PAÍS": "BOLIVIA"
   },
   {
     "FESTIVAL": "LA VERTIENTE",
     "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczPmwX3ZWtCNsiopD0gRAelqnEmPx-oYCx9SfFyKP0-cLjq0iybHxPt5ygHooRV2N2CGRbxvO8Q_vqL3OmgVzU5fp61c4_9w5aysbr0xNoTYMKc3s3BGuaiQ92vBIPBR7nQmZvGmlobcYLbJAOctZTfu=w150-h150-s-no-gm?authuser=6",
-    "SITIO WEB": "",
-    "DESDE": "",
+    "SITIO WEB": "https://www.la-vertiente.com/",
+    "DESDE": 2023,
     "PAÍS": "BOLIVIA"
   },
   {
@@ -493,14 +500,14 @@
     "FESTIVAL": "MULTICINE - Festival de cortometrajes",
     "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczNP1j-sRZbSltp0IRAz6JMQGwkEM55WiAeOOXNZBX1HPXeqI1zoihs4N-tZWrS8SxABUV61C_sNyYka8IQ0OJh_kQSl0d16D0zmWaf5g0_9BwAQfYN905FMdCvpnn0XMqPJWp-V0_30NYBZgGy5TK0F=w150-h150-s-no-gm?authuser=6",
     "SITIO WEB": "",
-    "DESDE": "",
+    "DESDE": 2025,
     "PAÍS": "BOLIVIA"
   },
   {
     "FESTIVAL": "MUTA - Festival Internacional de Apropiación Audiovisual",
     "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczPku6ixuaV-olQz6GDpA8YBZeBs6NR3ZP4ynyJ2pKlQs2UIuhF84-ydS5Q-ZZL2q4PJoTvPtyvTdEagJvMyAPIy1bEdT8-go3u6anZG1skAtmFf_RnMaGIVrJ5mxQsaL5SBHHoSWIJa-0aoMmzgbwmQ=w150-h150-s-no-gm?authuser=6",
     "SITIO WEB": "",
-    "DESDE": "",
+    "DESDE": 2017,
     "PAÍS": "PERÚ"
   },
   {
@@ -514,7 +521,7 @@
     "FESTIVAL": "OFF - Festival Internacional de cine de Oruro",
     "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczNAz5XzAIQxsmNn2GZoDjG-B8wXU-2_SABkKmqGA3E7KxW8VE_2h8CpVtqA2IuUelfd66JCn0B_zQjm7OhxfIvbGZM2d1bDXq-8iIBddXG79H4goV6CTJvx7LzdBtE-PQqyLpHHNBV9GD3Szm_BCtGu=w150-h150-s-no-gm?authuser=6",
     "SITIO WEB": "",
-    "DESDE": "",
+    "DESDE": 2005,
     "PAÍS": "BOLIVIA"
   },
   {
@@ -528,28 +535,28 @@
     "FESTIVAL": "PUKAÑAWI / EL SÉPTIMO OJO ES TUYO - Festival internacional de cine de derechos humanos de Bolivia",
     "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczNBBg60WBPJ7xHxO4sYbmoSQLUxNUx6tp6ZT76cdqbAX5R6sdPtaLQBXLNOApcYDQ-UrFweLuUIKWx9uutPCTQ_jSzSftupN4fmxWAqWkmeluHXwevFZUPt7zETuWCbFxAr8ynnnmz-ZKyxo2Esp3UE=w150-h150-s-no-gm?authuser=6",
     "SITIO WEB": "",
-    "DESDE": "",
+    "DESDE": 2004,
     "PAÍS": "BOLIVIA"
   },
   {
     "FESTIVAL": "PUNTO DE VISTA - Festival Internacional del cine documental de Navarra",
     "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczN5QbdRmondrMbp30XGulqbXlgjFkWmyu-sd8--N6BCCCUW27zSM9qivNjcpwKwb5elrh212XSAR0vGVJbG5HAhfvkYBcn_E0GxfZk6zwXmOsUYgyBRMfSOOW8AG3Oo-imVBUzSSvxpQCV9uSMVJirr=w150-h150-s-no-gm?authuser=6",
     "SITIO WEB": "",
-    "DESDE": "",
+    "DESDE": 2005,
     "PAÍS": "ESPAÑA"
   },
   {
     "FESTIVAL": "RADICAL - Festival de Cine",
     "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczP8F_4SsPxnb2HrOdFyyanlpg5aznjQfqgkKfnIhX8eTtVWOFvCl5a-abzZecbWMoUdwOSOC2ZFL7cMQ4L5fThz167RL77X6MRiKCOaKcIjJ62P4c33VmMpqSxqrsc_ToiOyw6wRY65-7NQxu9STW9l=w150-h150-s-no-gm?authuser=6",
     "SITIO WEB": "",
-    "DESDE": "",
+    "DESDE": 2014,
     "PAÍS": "BOLIVIA"
   },
   {
     "FESTIVAL": "RAÍCES - Festival de cine regional",
     "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczMF86uTZo7o7N4hnYMXu_WRyy4M6rY2nBfE0f4AnTc8B_SmEzUAntw6x1hUqO_yYZKzDOJvz95ctWFUykHAEYG7srs8OU1m2E3ZMnu1n08QdKGGYkz3Kslzzmd2NQjfQZvT-o7E2JuZ242jpPezNXIW=w150-h150-s-no-gm?authuser=6",
     "SITIO WEB": "",
-    "DESDE": "",
+    "DESDE": 2023,
     "PAÍS": "PERÚ"
   },
   {
@@ -570,7 +577,7 @@
     "FESTIVAL": "SONANDES - Plataforma de Experimentación e Investigación",
     "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczNkvbyhEHc9CE2B9OR1KVUsWBl0bPzaUohSOrEDB_451037rIk7xaKzulJaCzE67QEo5aZvsHMS5cEedaXhWrWifQcuSrbRpEvjAGzb-iUicZxA84DaCiSlH20-eb7TBeEWDX5WjeXL8bCBWyjUg14m=w150-h150-s-no-gm?authuser=6",
     "SITIO WEB": "",
-    "DESDE": "",
+    "DESDE": 2014,
     "PAÍS": "BOLIVIA"
   },
   {
@@ -598,7 +605,7 @@
     "FESTIVAL": "TIFF - Festival Internacional de cine de Toronto",
     "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczOCWWEOmmMgla5uRUsC7UE_2HIlD9KuQi00qZNbsLzI4NWprUhp7K2xlC8yHPxnXB1x4E9KYUg8Ao0317kEKxi8-Fi5rLsl-S6dUC_mTNS55z4-3fboH-W5CfDnVwZ99fjOFjP5NpUgUvBXelQm0hFp=w150-h150-s-no-gm?authuser=6",
     "SITIO WEB": "",
-    "DESDE": "",
+    "DESDE": 1976,
     "PAÍS": "CANADÁ"
   },
   {
@@ -633,14 +640,14 @@
     "FESTIVAL": "UNICINE - Festival de cine universitario",
     "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczM7OLAwtGwsaayKlw7-oxAoTjSwtW2R1YqE9jMuKp5jtDdxUIrkW5SwyCIA7t2QCajIiYEn1OlM91Elpbia9srNpxLKnqZlAL47YYDVntvo6uTEQBApFZt3dto8buMtcRoJ5YjyFP3sk8R5zFASGPYf=w150-h150-s-no-gm?authuser=6",
     "SITIO WEB": "",
-    "DESDE": "",
+    "DESDE": 2023,
     "PAÍS": "BOLIVIA"
   },
   {
     "FESTIVAL": "VIENNALE - Festival Internacional de cine de Viena",
     "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczPQKGh_99QFIwjBNUQkm7Cfkpf8LLPBGeQ4WTlU1fstKJlnzpQ57bkrjQY1z-BRHrmh_b1GAgd3oQs4i_FRENXRC_Bf5EGcZFQv90Q2s1P5Q_k3ihFFUdpOzvWC9LahLQEambiTQkhH3wocI9yBJAHu=w150-h150-s-no-gm?authuser=6",
     "SITIO WEB": "",
-    "DESDE": "",
+    "DESDE": 1960,
     "PAÍS": "AUSTRIA"
   },
   {
@@ -668,7 +675,7 @@
     "FESTIVAL": "WARMI FÍLMICA - Festival Internacional de cine de mujeres",
     "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczNG8eDSe3FlnCcAR5chj5zmEKO0ictzztlzq2vXz4r507MNKwg0JpIwmTzlRYqj3H07mz4Xwi9b0nujrcXCfOCnqPP4sDCNTCBVwZs-p6HO_TIK2Fr-OCh8k4d4yz7xDG_R-Co7z-1spubQyiGXoYRk=w150-h150-s-no-gm?authuser=6",
     "SITIO WEB": "",
-    "DESDE": "",
+    "DESDE": 2018,
     "PAÍS": "BOLIVIA"
   }
 ]
