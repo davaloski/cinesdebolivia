@@ -8,7 +8,7 @@
   },
   {
     "FESTIVAL": "AL ESTE - Festival Internacional de Cine",
-    "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczM_ZoUFY3gsVR0cx-z1olzF0DQFWT3yrlU_8NkJMZPNw4s-4m-sThjENpcvPJA9oGXZhJ0NbQzl7eKac98RpGa5vwDKVg7nUMS9IemjT7KOd3VNXnHADvE_TzaqVVRQKGcBZdqZFG3Kp5fFjbWQtbYJ=w150-h150-s-no-gm?authuser=6",
+    "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczNhRNc1M52PIg-DbDxUFRVjVUpgF3bNpkhki2YGUIOXD2vCyz_IQzEGfjunOqxQtq-qbxwnjZrTcYQ4OGq6J2VHQxsGkpRXCMNBIfxXsDzsxQjHoYOf05rVMHK-CBuLdFrfhA2RIPcH_V8PdPxzigN6=w150-h150-s-no-gm?authuser=1",
     "SITIO WEB": "https://www.peru.alestfestival.com/",
     "DESDE": 2009,
     "PAÍS": "PERÚ"
@@ -201,6 +201,13 @@
     "SITIO WEB": "https://www.facebook.com/cultura.caotica.2025",
     "DESDE": 2016,
     "PAÍS": "BOLIVIA"
+  },
+  {
+    "FESTIVAL": "Default",
+    "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczPTkuTLgwO-pqhKhbdA8d-HV2hDln6kDySwylZx-ktIow-xmgXrJ4VwSZk-QdjgGZ0HBTBuQ33tiG5k_Q2VDoL2qUudHl1V1y1rF5YPpwPNUq67TJce0aAfOT7HDHQ4y_OEwDsRvbMsuIYusMvDk40U=w150-h150-s-no-gm?authuser=1",
+    "SITIO WEB": "",
+    "DESDE": "",
+    "PAÍS": ""
   },
   {
     "FESTIVAL": "DÍA DEL VIDEO ARTE BOLIVIANO",
