@@ -14,6 +14,13 @@
     "PAÍS": "PERÚ"
   },
   {
+    "FESTIVAL": "ALCHEMY - Film and Moving Image Festival",
+    "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczMmzeyC3Ei7XupUI1YPzzG__Tuwtzz3BrG5Iv3XcHLCfH7q6eBIYVjEtyez-Ru3yf8NY_EpLdjCj_UU5vP0PN-OqMPpSyyRImczn5rd_506_D7Sl_Cn1-2QZFK0zmRdoWbkwaFVCQq7-Nik6B3q8jFT=w150-h150-s-no-gm?authuser=1",
+    "SITIO WEB": "https://alchemyfilmandarts.org.uk/festival/",
+    "DESDE": "",
+    "PAÍS": "REINO UNIDO"
+  },
+  {
     "FESTIVAL": "AMALIA DE GALLARDO - Concurso municipal de video",
     "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczP4Ul4_bmxNb90fbTFh3aE3pZ1Ygn-ZcVQV8JrLey0dan17_yjoZY8qxYronTrHBxYtyJczgVVYfBYxlXC7YAaBxVCabP_XiALdvLD1MzbIHtnaTaoTL6fhaV-sb0QmojFNZvVgWFYvtT4BBiA0g_7Z=w150-h150-s-no-gm?authuser=6",
     "SITIO WEB": "",
@@ -70,6 +77,13 @@
     "PAÍS": "ALEMANIA"
   },
   {
+    "FESTIVAL": "BFMAB - Berwick Film & Arts Festival",
+    "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczPpjH5wL3jJryl1_9qB7Mv-vJQg0CAg1XmDwYy9ZXx6loL_wKElXXj-22moBap-JQl4honQnWXmBBfaBz6HpI_1vlBekvdaCEs8N5BFUSF-NqQP4IYRppc80AHcJhL5aqpqn6JLNWqgM2qgNE5tPWH7=w150-h150-s-no-gm?authuser=1",
+    "SITIO WEB": "https://bfmaf.org/",
+    "DESDE": "",
+    "PAÍS": "REINO UNIDO"
+  },
+  {
     "FESTIVAL": "BIARRITZ - Festival de Cine Latinoamericano",
     "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczOYDIxEQD5jjPSo5tE76FMoKq8ofJx8cV-altEZPx0dLewYsrZNISE94mD07WRf7R7IasGdH1jtxt8ppQSKdhrFsZB4O6tQCuySS-aEBaqd8QXyVY1DTDgMbLx7_qNwsgJgw9MNMUkuD9apdAvSoVvR=w150-h150-s-no-gm?authuser=6",
     "SITIO WEB": "https://www.festivaldebiarritz.com/es/",
@@ -82,6 +96,13 @@
     "SITIO WEB": "https://www.labiennale.org/en/cinema/",
     "DESDE": "",
     "PAÍS": "ITALIA"
+  },
+  {
+    "FESTIVAL": "BIFAN - Bucheon International Fantastic Film Festival",
+    "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczMERbk5PYzfhn2wOLof4EXDsogKc81e6hYyjCF6Yr5Lr_8MEBjC0XwddgnL2-D4giXOKw8WHGNpsomtEgQUxt4GIrXVWMPguwL8rva8jen1LT-ZkEOzEmBxh_QIxkjqgcI5_v6FL64_jXSm-pILn3e1=w150-h150-s-no-gm?authuser=1",
+    "SITIO WEB": "https://www.bifan.kr/eng/",
+    "DESDE": "",
+    "PAÍS": "COREA DEL SUR"
   },
   {
     "FESTIVAL": "BLACK CANVAS - Festival de Cine Contemporáneo",
@@ -194,6 +215,13 @@
     "SITIO WEB": "https://corrientenoficcion.com/",
     "DESDE": "",
     "PAÍS": "PERÚ"
+  },
+  {
+    "FESTIVAL": "CPH-DOX - Copenhagen International Documentary Film Festival",
+    "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczNrzfUNhgwz7EzmYZ6R10N-HlWh-HLF7LWxKUF-xljFCbSqydv9rtjV5HOpOqZPgeOFX0uDJXBoxqzUjgg_twrcvQQaSEuzwNx9AWNfiq1A7yrr5swfKTtjdqEzlgQeFd_m-fArCFl4EgAeV6OTsW44=w150-h150-s-no-gm?authuser=1",
+    "SITIO WEB": "https://cphdox.dk/",
+    "DESDE": "",
+    "PAÍS": "DINAMARCA"
   },
   {
     "FESTIVAL": "CULTURA CAÓTICA - Festival Internacional de cine",
@@ -357,11 +385,25 @@
     "PAÍS": "CHILE"
   },
   {
+    "FESTIVAL": "GABÈS CINÉMA FEN",
+    "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczOrGPqqzO4685O7E7auSJ_2Su-P_rTdPFi1DHvKTgqVbZoqEFHAt1_WaBnQF-u0fMcyOfn5FcqZP4iH7s8KioQX2sGcC5eOAb3LDOEIsfXRwDR_VIcYIR6BLl-DoMNycyNACK_UplPvFycLka6AlOxx=w150-h150-s-no-gm?authuser=1",
+    "SITIO WEB": "https://gabescinemafen.com/",
+    "DESDE": "",
+    "PAÍS": "TÚNEZ"
+  },
+  {
     "FESTIVAL": "Göteborg - Festival de cine de Gotemburgo",
     "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczPBd6BovBmHL-xrrjaFX24Pj69a_Frw1hyeOYmMDSfBxISP8gpgPQC2Kae29WNor7YuJkNVgnj85Izxcp6EqwpAmbxy6MEFLWKNgR4BWiFZrTVfCs5YyFpltn5CYalZBdKCryb1KatP2JeHw5fCr5hr=w150-h150-s-no-gm?authuser=6",
     "SITIO WEB": "https://goteborgfilmfestival.se/en/",
     "DESDE": "",
     "PAÍS": "SUECIA"
+  },
+  {
+    "FESTIVAL": "GRITOS EN EL PLANETARIO - Festival Internacional de cine de terror de La Plata",
+    "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczNTTaULT0rXfIY_EAqFqlfMQE27UDBtP9xpbC6MVaZwrBQMlgVXjesefca7dhekx33sQ4Ua984tADb8oqqEqnDM9kUA7heUTYD-w5Ks2zOpklfbfOUj0_cHOB623ECAtrz9PdjofLJs3fEVTStTD5Qx=w150-h150-s-no-gm?authuser=1",
+    "SITIO WEB": "",
+    "DESDE": "",
+    "PAÍS": "ARGENTINA"
   },
   {
     "FESTIVAL": "HANAN - Festival de cine de Puno",
@@ -418,6 +460,20 @@
     "SITIO WEB": "https://www.kunstraum-schwaz.at/",
     "DESDE": 1994,
     "PAÍS": "ALEMANIA"
+  },
+  {
+    "FESTIVAL": "KURZFILM - Festival Hamburg",
+    "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczN_1B3JU4ZnxKCUUGWcNu7o0iyysc7mn51PsEwb7F7nlbk98yXIeu2aGWTbQjXz2BUHzVPjgMEuQSPR-Xm-B7w3z5oRMn3KtH8dP1AcihCVxSjmwkfHrRiVHYztLRYLGatFo7efxA2QvS0WHjY4CHdK=w150-h150-s-no-gm?authuser=1",
+    "SITIO WEB": "https://festival.shortfilm.com/",
+    "DESDE": "",
+    "PAÍS": "ALEMANIA"
+  },
+  {
+    "FESTIVAL": "KVIFF - Karlovy Vary International film Festival",
+    "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczOQpFzKM5ZSUx_qOFJs-jZT86gh09k4oNxj8aIJl3yphLAaV5BKcz4Iu8LUbLc3i6OClbg0RcnprgHnCdLhCiirIpul-yUowJSlcGgTwtXBQJloxH3xUZa0p09q8lWhvWZ57w3WJ9sELr4SYLY6GpTq=w150-h150-s-no-gm?authuser=1",
+    "SITIO WEB": "https://www.kviff.com/",
+    "DESDE": 1946,
+    "PAÍS": "REPÚBLICA CHECA"
   },
   {
     "FESTIVAL": "LA RUTA DEL ARTE",
@@ -497,6 +553,20 @@
     "PAÍS": "RUSIA"
   },
   {
+    "FESTIVAL": "MUESTRA CINE + VIDEO INDÍGENA",
+    "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczNM6_TplfeU8TwoNoOaKf8OWoLbWxqaPvL_ZLVumzKo7z6b1dR5eQwfuG3mjAdYZaDL-PRdPy6C82lF1yiKKwzwB-LtUFjzBFOiIRFMgf2Us-mRbA82a9hqQMfVbq8vs9pDrcAKcFmvz39Be91rx21S=w150-h150-s-no-gm?authuser=1",
+    "SITIO WEB": "",
+    "DESDE": "",
+    "PAÍS": "CHILE"
+  },
+  {
+    "FESTIVAL": "MUFF - Milwaukee Underground Film Festival",
+    "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczONW30fdmSScrYfDk-FqYxxvHZoHxY23-3FvhALIZIvR5J2ZLTBZs7zgaL_vwCLesy_k2WHv0pKol3Xf35YKv4I9dNKMHF6IFqCbY1txcI_ZlSprJhCdD4c6kzMCwKrcuTx17tsT5D8qg39Ut4yIjAh=w150-h150-s-no-gm?authuser=1",
+    "SITIO WEB": "https://www.milwaukeeundergroundfilm.org/",
+    "DESDE": "",
+    "PAÍS": "ESTADOS UNIDOS"
+  },
+  {
     "FESTIVAL": "MULTICINE",
     "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczMHgyn3kqprvTapM4hcS0Vk2izKbY4n1FMIuV8BrhYihL7RYEtJTgsytZqG2x8__eZIUcqbeS5fwqqOQUB_iee4beJK94-75-q657-4RTeEuwfk_JpRQ5JqD-D2p-E6iVPMaBw9WW8J_nUvh_vCnBpD=w150-h150-s-no-gm?authuser=6",
     "SITIO WEB": "",
@@ -567,6 +637,13 @@
     "PAÍS": "PERÚ"
   },
   {
+    "FESTIVAL": "S8 - Mostra de cinema periférico",
+    "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczMgoZhV991C4SkLro1cFpG_3jObzlxC5hJGx0WpyWmz28GOlbxXktCkQUinRVldmXcfiyacuo4HBKWumUxLcKAm0wC9wxrzHb7F47GMXPU8wA76UUhYl_PFBI3YY186FAwsVFyIEHV-V4vqXxogUZT9=w150-h150-s-no-gm?authuser=1",
+    "SITIO WEB": "https://s8cinema.com/",
+    "DESDE": "",
+    "PAÍS": "BRASIL"
+  },
+  {
     "FESTIVAL": "Salas Comerciales de Bolivia",
     "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczOmgXeZPCFc2T2Yhb--ZSJJiE2MjyyQ9B6VacAjHxtVsJE31kPVrIKD9dSxZ5agGmmmmQQnj36iVylGdliIWl2U1ElLg6Vbw4rB1yC2Vuoa8T2NHOuXhBIUe7Nf4nHHlKPinOoF7fzxJ2ZEdruDdwxM=w150-h150-s-no-gm?authuser=6",
     "SITIO WEB": "",
@@ -614,6 +691,13 @@
     "SITIO WEB": "",
     "DESDE": 1845,
     "PAÍS": "BOLIVIA"
+  },
+  {
+    "FESTIVAL": "THIRD HORIZON - Film Festival",
+    "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczPCmDr5tPXIhMb9VWn7eMQo9ANJ-wnv00ub3HwLl1ArLeKZJc18kZ8_8-Xto4RuomFwA5bOj_hgBLbU4eDJ-WH_sVo-CcMvJKvyt1qt5wY7mgxnXvi6nJR5KGhzHgcrixrURboLN_C11OhM5GgwfHyB=w150-h150-s-no-gm?authuser=1",
+    "SITIO WEB": "https://www.thirdhorizonfilmfestival.com/",
+    "DESDE": "",
+    "PAÍS": "ESTADOS UNIDOS"
   },
   {
     "FESTIVAL": "TIFF - Festival Internacional de cine de Toronto",
