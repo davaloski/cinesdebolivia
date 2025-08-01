@@ -168,10 +168,24 @@
     "PAÍS": "BOLIVIA"
   },
   {
+    "FESTIVAL": "CINE TEATRO 16 DE JULIO DON BOSCO",
+    "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczMPnJ-SD7aToG5qGHse4Y-9K3bRXCcVIkC1ZTDDvkFQ2BVTYvPBXBLaAmJ6h0jJNeT9b5GFegtCYsqeD3DdbgFCU5xGnaYQbOGGaZi-hFkia1EfewaizasRYJnaoqiU9l3VXxUlKgII3kAXfBTz4fuf=w150-h150-s-no-gm?authuser=1",
+    "SITIO WEB": "",
+    "DESDE": "",
+    "PAÍS": "BOLIVIA"
+  },
+  {
     "FESTIVAL": "CINE TEATRO 6 DE AGOSTO",
     "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczPbHQcgNYmfbA0xXxGylgrn7ooPHNO-igB7qoRWt0Na80Vv-jNpNtFqtT_QBb-42FjqAgce0kJbUOq5tj6GFBbBYL34Q9fNDypMB33U6MBxE2jI83ZySgxZ5iugXkQxX__3vh_h5Ow6zTtwmR5DRUVV=w150-h150-s-no-gm?authuser=1",
     "SITIO WEB": "",
     "DESDE": 1937,
+    "PAÍS": "BOLIVIA"
+  },
+  {
+    "FESTIVAL": "CINE VERDE - Festival Internacional",
+    "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczP1a7dOytd_qjqH6GFnqNXB6eEoTcpqme-A-YWlEu67nxl5oHr2itB7Ru4Dyq6onF_EecOgrZ1h88IszAHT80S9d_HyFCz_zyaWShYjHeMvZpTO7MOW_FcSFChozjER9EPmnd42ZDeq33-snyBeZ6fT=w150-h150-s-no-gm?authuser=1",
+    "SITIO WEB": "",
+    "DESDE": "",
     "PAÍS": "BOLIVIA"
   },
   {
@@ -232,7 +246,7 @@
   },
   {
     "FESTIVAL": "Default",
-    "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczPTkuTLgwO-pqhKhbdA8d-HV2hDln6kDySwylZx-ktIow-xmgXrJ4VwSZk-QdjgGZ0HBTBuQ33tiG5k_Q2VDoL2qUudHl1V1y1rF5YPpwPNUq67TJce0aAfOT7HDHQ4y_OEwDsRvbMsuIYusMvDk40U=w150-h150-s-no-gm?authuser=1",
+    "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczPE5EZUtDZ5l0wRXc7hiahBWFDsRccTw2AjF0sUVb-fHakZkKxaFXjmwj5FdcKJnn1TZdH-Xgh2NBIHFYH-LveYWkJwkP0bXn7OpDcdRSgSoGsl_08kBK_5T0NfKz064pMi9OTJb7Byq5g6qQbkcOJ8=w150-h150-s-no-gm?authuser=1",
     "SITIO WEB": "",
     "DESDE": "",
     "PAÍS": ""
@@ -268,6 +282,13 @@
   {
     "FESTIVAL": "EDUARDO ABAROA - PREMIO",
     "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczNqzEiXxz7y_u7WA9xD1hM-W1PMpw_pm7yYdJ1GTf1AazX2kCB5MrHQdVl0OfnzRIvuDeLsc1wbWOzene4KU7ye03kluVUAJXBXpcw2CDBMSVakkCb3tL1111dq3m_cQmJ0TCzIzB0s9T8pN3jRdh4Q=w150-h150-s-no-gm?authuser=6",
+    "SITIO WEB": "",
+    "DESDE": "",
+    "PAÍS": "BOLIVIA"
+  },
+  {
+    "FESTIVAL": "ESPACIO WALIKI",
+    "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczPa6fqL1hcYJHNyrc92Hke8trWt-J1JFNLYCTczTEDLmR2uxJabtpV_RFFsrItR8P--VMmxUQtSoYBMxXgTJS0NXISVH8aLFUpZIj1LKdo-lyV5reGLTnR5x_R3CriINvB6I3X_GBQIABK0aSUA5LhR=w150-h150-s-no-gm?authuser=1",
     "SITIO WEB": "",
     "DESDE": "",
     "PAÍS": "BOLIVIA"
@@ -476,6 +497,13 @@
     "PAÍS": "REPÚBLICA CHECA"
   },
   {
+    "FESTIVAL": "LA BRUTA",
+    "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczOB6GBSzXxoa3IExmGRIGaY1qcVRi4XbuTpqwvNpl0sfqyDZCcWs4ILIrzJXs9ZyeJ2kOqYwl5L7flEyieHxgASDhas4dgkYxU4BcTTXtn_1mZSHNsG7Gv8eT5QRRKmF_1ICYuUOpohe2b_U6KtttmF=w150-h150-s-no-gm?authuser=1",
+    "SITIO WEB": "",
+    "DESDE": "",
+    "PAÍS": "BOLIVIA"
+  },
+  {
     "FESTIVAL": "LA RUTA DEL ARTE",
     "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczM6ERUp2axtEa-L19gYIcYBUWOIX_nE7Kb4o_GP0mRZhD-P4Vn10csIq0rgDsR4ZTDfsg5Hq3bGjZx7OgS8rjR1ct88DlbJnj76epoTosgKxVLSW83OFrKSE4OELF3IulqUHWI_-4GVF_X_t6syUvjE=w150-h150-s-no-gm?authuser=6",
     "SITIO WEB": "https://www.facebook.com/larutadelarte.bo/",
@@ -509,6 +537,13 @@
     "SITIO WEB": "",
     "DESDE": "",
     "PAÍS": "SUIZA"
+  },
+  {
+    "FESTIVAL": "MALABAR",
+    "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczN6LQDHpAY7MFHyxOXdsQSxnO8fkDnWgANfjiK4luk5ryu7wX0OZvhbJmS0_VYUSpQGMXdlq4CqfIKaqHNr-N9JGkgX6ZD5u7e5CXsCgp6Y88K60QbVmPW4V_C_OMbxuJanfQ5UdjawAta74mA3sACd=w150-h150-s-no-gm?authuser=1",
+    "SITIO WEB": "",
+    "DESDE": "",
+    "PAÍS": "BOLIVIA"
   },
   {
     "FESTIVAL": "MÁRGENES - Festival internacional de cine de Madrid",
@@ -684,6 +719,13 @@
     "SITIO WEB": "",
     "DESDE": "",
     "PAÍS": "ITINERANTE"
+  },
+  {
+    "FESTIVAL": "Tambo Colectiva Ch'ixi",
+    "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczOCA_2zegMFDcKvkrlYRkV_OpwQ5ESHydBIGpAADGsvMFlQpfM-1miooGYc_CZ-qfTPsBe3m3pIHWu3hc025ikxfq8OGNLpLo3gGUQDyx0_S2L6Pzk6Yr3OaTwUMU2AhKPODuKBi0w-_r3uMcUqjdhf=w150-h150-s-no-gm?authuser=1",
+    "SITIO WEB": "",
+    "DESDE": "",
+    "PAÍS": "BOLIVIA"
   },
   {
     "FESTIVAL": "Teatro Municipal Alberto Saavedra Pérez",
