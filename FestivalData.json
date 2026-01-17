@@ -119,6 +119,13 @@
     "PAÍS": "COREA DEL SUR"
   },
   {
+    "FESTIVAL": "BISFF - Beijing International Short Film Festival",
+    "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczMjZrw378x0aVNJURZORJXjoPMR2vb6TGThyZzckY2hwKiRqYZQ9Nt_q4QgKzDnXTf-WDtNKWwHB5siZBy_axqXjifnQos7RpWHk0f1-4qZAyyL-31GXMnr964Mr3SDzNRgXA620EfD-Q1d3pv47XXh=w150-h150-s-no-gm?authuser=8",
+    "SITIO WEB": "https://www.bisff.co/",
+    "DESDE": "",
+    "PAÍS": "CHINA"
+  },
+  {
     "FESTIVAL": "BLACK CANVAS - Festival de Cine Contemporáneo",
     "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczOfOfNtlkDgP7MNLu-SY1v9th5qnKCHr-0l1aq-eK82Tt-ddbAi86bDHRewrqiG65EZSwX8teWVjfj_NDXL7SmMJWHfcxSZT_VQTsMzteeOlEU3vKKtCpntGcRksdzjFKD4hH5WUOOCL-Ef0bLpzevy=w150-h150-s-no-gm?authuser=6",
     "SITIO WEB": "https://blackcanvasfcc.com/",
@@ -215,6 +222,20 @@
     "SITIO WEB": "https://www.cineclubcito.com/",
     "DESDE": 2016,
     "PAÍS": "BOLIVIA"
+  },
+  {
+    "FESTIVAL": "CINÉLATINO RENCONTRES DE TOULOUSE",
+    "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczO8now4J2MYhZ8fLjNqaQrjQBfqgDQqWebe7eyKhUEk1wAyvaa6uOgtisDRbylXSZKJEpq4zJhCw9bc-DcF7wVFidTxjRTesplbQedW6gE_rup1hVWVvO3_2ZC38hNoF_dLBZ06E3oQv4NCrAUSVmgL=w150-h150-s-no-gm?authuser=8",
+    "SITIO WEB": "https://www.cinelatino.fr/es/festival-cinelatino/",
+    "DESDE": "",
+    "PAÍS": "FRANCIA"
+  },
+  {
+    "FESTIVAL": "CINEMA DU RÉEL",
+    "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczP5qDfyJesvxthWq-4UNqB0tpxgbyiyePKQz2YBwCeL3iC6CSmF-yH_GiGATnLI_VhJkjpXCKRHpiIikM-2rxS35dnAfEti5bk7xJpatJAgJrMUSkxnqcBsMfR8zoB5S8lOA6us9JIOODVm5W0lZoXu=w150-h150-s-no-gm?authuser=8",
+    "SITIO WEB": "https://www.cinemadureel.org/en/",
+    "DESDE": "",
+    "PAÍS": "FRANCIA"
   },
   {
     "FESTIVAL": "CINEMARK",
@@ -523,6 +544,13 @@
     "SITIO WEB": "https://eng.jeonjufest.kr/",
     "DESDE": "",
     "PAÍS": "COREA DEL SUR"
+  },
+  {
+    "FESTIVAL": "JI.HLAVA IDFF - International Documentary Film Festival",
+    "ICONO": "https://lh3.googleusercontent.com/pw/AP1GczNwyi40-HMgmL6uJVOVFXzkA-CkdsfHB8ocpLwfG60qEn2GyGC77xH3ODqyiYJnj-0RzgyQ2pzJyiVLxEOlEi430tnpYboZqr9u51w2nGLtF9z2IGBp6LeC_fe0U8t-EukwYUdGMknh8V3GGT_iJP66=w150-h150-s-no-gm?authuser=8",
+    "SITIO WEB": "https://www.ji-hlava.com/",
+    "DESDE": "",
+    "PAÍS": "REPÚBLICA CHECA"
   },
   {
     "FESTIVAL": "JISK'AMETRAJES - Convocatoria anual del Movimiento del Nuevo Cine y Video Boliviano - El Alto",
